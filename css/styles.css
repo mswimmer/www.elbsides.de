@@ -4,29 +4,42 @@
    you to simply add your own. This is a basic template 
    after all.
    ---------------------------------------------------------*/
-    body {
-   
-    }
-    /* Default link styling */
-    a:link { color:#0271fb; }
-    a:visited { color:#bd02fb; }
-    a:hover, a:focus { color:#000; }
-    a:active { color:#fb0e02; }
+
+body {
+    background-image: url("../images/ElbSides_Circuit_V2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #00d298;
+    /* Font color */
+    color: white;
+    text-shadow: 1px 1px grey;
     
-    
-    
+}
+
+abbr[title] {
+  border-bottom: none;
+  text-decoration: none;
+  text-decoration: note;
+}
+
+/* Default link styling */
+a:link { color:#ccf5ff; }
+a:visited { color:white; }
+a:hover, a:focus { color:blue; }
+a:active { color:#fb0e02; }
+        
 /* ---------------------------------------------------------
    Author's styles
    ---------------------------------------------------------*/
-    body {
-   
-    }
-
+body {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
 
     
 /* ---------------------------------------------------------
    Print styles
    ---------------------------------------------------------*/
+
 @media print {
     * {
         color:#000 !important;
