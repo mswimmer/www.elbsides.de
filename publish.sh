@@ -1,10 +1,10 @@
 #!/bin/bash
-S3BUCKET=
+S3BUCKET=elbsides.de
 
 git commit -a -m "auto-commit on publish"
 
 function transfer() {
-    aws --region eu-west-1 --profile personal.iam s3 cp $1 s3://elbsides.de/$2
+    aws --region eu-west-1 --profile personal.iam s3 cp $1 s3://$S3BUCKET/$2
 }
 
 transfer index.html index.html
