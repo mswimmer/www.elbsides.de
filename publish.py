@@ -50,7 +50,7 @@ def validate_file(html_file):
     return os.system("html5validator {}".format(html_file)) == 0
 
 def validate_all(file_list):
-    return all([validate(localFile=o['file']) for o in file_list if o['ct'] =='text/html'])
+    return all([validate_file(localFile=o['file']) for o in file_list if o['ct'] =='text/html'])
 
 if validate_all(www):
     transfer_all(www)
