@@ -1,7 +1,6 @@
 #!env python3
 import os
 import boto3
-import botocore
 from datetime import datetime
 
 REGION = "eu-west-1"
@@ -38,7 +37,7 @@ def transfer(localFile, bucket, destKey, ct="application/html"):
                 s3_client.put_object(Bucket=bucket, Key=destKey, ContentType=ct, Body=f)
         else:
             print("No changes to", localFile, destKey)
-    except botocore.errorfactory.NoSuchKey:
+    except s3_client.exceptions.NoSuchKey:
         s3_client.put_object(Bucket=bucket, Key=destKey, ContentType=ct, Body=f)
 
 rc = os.system("html5validator www/index.html")
