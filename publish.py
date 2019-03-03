@@ -26,16 +26,19 @@ c2019 = [
 
 def transfer(localFile, bucket, destKey, ct="application/html"):
     print("Getting S3 info from s3://{}/{}".format(bucket, destKey))
-    response = s3_client.get_object(Bucket=bucket, Key=destKey)
-    #print(response)
-    file_datetime = datetime.utcfromtimestamp(os.path.getmtime(localFile)).astimezone()
-    #print(file_datetime)
-    if response['LastModified'] < file_datetime:
-        with open(localFile, 'rb') as f:
-            print("Transferring", bucket, destKey)
-            s3_client.put_object(Bucket=bucket, Key=destKey, ContentType=ct, Body=f)
-    else:
-        print("No changes to", localFile, destKey)
+    try:
+        response = s3_client.get_object(Bucket=bucket, Key=destKey)
+        #print(response)
+        file_datetime = datetime.utcfromtimestamp(os.path.getmtime(localFile)).astimezone()
+        #print(file_datetime)
+        if response['LastModified'] < file_datetime:
+            with open(localFile, 'rb') as f:
+                print("Transferring", bucket, destKey)
+                s3_client.put_object(Bucket=bucket, Key=destKey, ContentType=ct, Body=f)
+        else:
+            print("No changes to", localFile, destKey)
+    except botocore.errorfactory.NoSuchKey:
+        s3_client.put_object(Bucket=bucket, Key=destKey, ContentType=ct, Body=f)
 
 rc = os.system("html5validator www/index.html")
 if rc == 0:
