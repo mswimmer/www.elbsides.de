@@ -1,170 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <meta charset='UTF-8'>
-    <title>Pure CSS Tabbed Areas</title>
-    <link rel='stylesheet' href='css/style.css'>
+  <meta charset='UTF-8'>
+  <title>2019 Elbsides Conference</title>
+  <link rel='stylesheet' href='css/style.css'>
 
-    <style>
-      .tabs {
-        position: relative;
-        min-height: 200px; /* This part sucks */
-        clear: both;
-        margin: 25px 0;
-      }
-      .tab {
-        float: left;
-      }
-      .tab label {
-        background: #eee;
-        padding: 10px;
-        border: 1px solid #ccc;
-        margin-left: -1px;
-        position: relative;
-        left: 1px;
-      }
-      .tab [type=radio] {
-        display: none;
-      }
-      .content {
-        position: absolute;
-        top: 28px;
-        left: 0;
-        background: white;
-        right: 0;
-        bottom: 0;
-        padding: 20px;
-        border: 1px solid #ccc;
-        overflow: hidden;
-      }
-      .content > * {
-        opacity: 0;
-        -webkit-transform: translate3d(0, 0, 0);
-        -webkit-transform: translateX(-100%);
-        -moz-transform:    translateX(-100%);
-        -ms-transform:     translateX(-100%);
-        -o-transform:      translateX(-100%);
-
-        -webkit-transition: all 0.6s ease;
-        -moz-transition:    all 0.6s ease;
-        -ms-transition:     all 0.6s ease;
-        -o-transition:      all 0.6s ease;
-      }
-      [type=radio]:checked ~ label {
-        background: white;
-        border-bottom: 1px solid white;
-        z-index: 2;
-      }
-      [type=radio]:checked ~ label ~ .content {
-        z-index: 1;
-      }
-      [type=radio]:checked ~ label ~ .content > * {
-        opacity: 1;
-
-        -webkit-transform: translateX(0);
-        -moz-transform:    translateX(0);
-        -ms-transform:     translateX(0);
-        -o-transform:      translateX(0);
-      }
-    </style>
-    <style type="text/css" style="display: none !important;">
-      * {
-        margin: 0;
-        padding: 0;
-      }
-      body {
-        overflow-x: hidden;
-      }
-      #demo-top-bar {
-        text-align: left;
-        background: #222;
-        position: relative;
-        zoom: 1;
-        width: 100% !important;
-        z-index: 6000;
-        padding: 20px 0 20px;
-      }
-      #demo-bar-inside {
-        width: 960px;
-        margin: 0 auto;
-        position: relative;
-        overflow: hidden;
-      }
-      #demo-bar-buttons {
-        padding-top: 10px;
-        float: right;
-      }
-      #demo-bar-buttons a {
-        font-size: 12px;
-        margin-left: 20px;
-        color: white;
-        margin: 2px 0;
-        text-decoration: none;
-        font: 14px "Lucida Grande", Sans-Serif !important;
-      }
-      #demo-bar-buttons a:hover,
-      #demo-bar-buttons a:focus {
-        text-decoration: underline;
-      }
-      #demo-bar-badge {
-        display: inline-block;
-        width: 302px;
-        padding: 0 !important;
-        margin: 0 !important;
-        background-color: transparent !important;
-      }
-      #demo-bar-badge a {
-        display: block;
-        width: 100%;
-        height: 38px;
-        border-radius: 0;
-        bottom: auto;
-        margin: 0;
-        background: url(images/ElbSides_Circuit_v3.png) no-repeat;
-        background-size: 100%;
-        overflow: hidden;
-        text-indent: -9999px;
-      }
-      #demo-bar-badge:before, #demo-bar-badge:after {
-        display: none !important;
-      }
-    </style>
-
-    <main>
-      <div id="demo-top-bar">
-	<div id="demo-bar-inside">
-	  <h2 id="demo-bar-badge">
-	    <a href="/">Elbsides.de</a>
-	  </h2>
-	  <div id="demo-bar-buttons">
-          </div>
+  <main>
+    <div id="top-bar">
+      <div id="bar-inside">
+	<h2 id="bar-badge">
+	  <a href="/"><img src="images/ElbSides_Circuit_v3.png"
+			   width="200"></a>
+	</h2>
+	<div id="bar-buttons">
 	</div>
       </div>
+    </div>
+    
+    <h1>2019 Elbsides Conference</h1>
+    
+    <section class="tabs">
       
-      <h1>Pure CSS Functional Tabbed Area</h1>
-      
-      <section class="tabs">
-	
-	<article class="tab">
-          <input type="radio" id="tab-1" name="tab-group-1" checked>
-          <label for="tab-1">Tab One</label>
-          <div class="content">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-            elit. Sed interdum eros id porta sodales. Nam vitae lectus
-            efficitur, ultricies quam sit amet, tincidunt
-            tellus. Donec a nulla sem. Etiam dignissim elit vitae
-            risus efficitur, vitae lobortis metus pharetra. Nullam
-            ullamcorper ipsum eu eros dignissim blandit. Suspendisse
-            scelerisque lorem est. Maecenas consequat venenatis felis,
-            nec scelerisque augue venenatis eu. Class aptent taciti
-            sociosqu ad litora torquent per conubia nostra, per
-            inceptos himenaeos. Nulla porttitor suscipit sem id
-            semper. Nam finibus gravida urna ac aliquam. Donec gravida
-            nibh maximus nisi dapibus imperdiet. Morbi massa mauris,
-              consequat a odio nec, tincidunt lobortis felis.</p>
-	    
-
-	    <p>Vivamus nisi ligula, mattis et libero ac, placerat
+      <article class="tab">
+	<input type="radio" id="tab-1" name="tab-group-1" checked>
+	<label for="tab-1">Home</label>
+	<div class="content">
+	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+	    elit. Sed interdum eros id porta sodales. Nam vitae lectus
+	    efficitur, ultricies quam sit amet, tincidunt
+	    tellus. Donec a nulla sem. Etiam dignissim elit vitae
+	    risus efficitur, vitae lobortis metus pharetra. Nullam
+	    ullamcorper ipsum eu eros dignissim blandit. Suspendisse
+	    scelerisque lorem est. Maecenas consequat venenatis felis,
+	    nec scelerisque augue venenatis eu. Class aptent taciti
+	    sociosqu ad litora torquent per conubia nostra, per
+	    inceptos himenaeos. Nulla porttitor suscipit sem id
+	    semper. Nam finibus gravida urna ac aliquam. Donec gravida
+	    nibh maximus nisi dapibus imperdiet. Morbi massa mauris,
+	    consequat a odio nec, tincidunt lobortis felis.</p>
+	  
+	  
+	  <p>Vivamus nisi ligula, mattis et libero ac, placerat
 	    mattis diam. Fusce ac mattis magna, et rhoncus arcu. Donec
 	    malesuada scelerisque ante sed vulputate. Quisque et
 	    finibus felis, id faucibus urna. Pellentesque eros mauris,
@@ -173,27 +49,27 @@
 	    augue risus, bibendum quis semper at, pretium sit amet
 	    magna. Vivamus egestas finibus tortor nec
 	    ultrices. Aliquam consequat blandit lorem sed mollis. Sed
-	      suscipit neque sed vehicula finibus.</p>
-	    
-          </div>
-	</article>
-	
-	<article class="tab">
-          <input type="radio" id="tab-2" name="tab-group-1">
-          <label for="tab-2">Tab Two</label>
-          <div class="content">
-            <p>Suspendisse tristique nisl vitae lacus malesuada, ut
-            placerat augue commodo. Suspendisse ultricies accumsan
-            lectus, quis aliquam tellus bibendum in. Duis convallis
-            sagittis nunc. Donec in tellus a purus bibendum commodo
-            quis quis lectus. Integer id dolor quis libero cursus
-            consequat ac iaculis tellus. Donec quis ante id tellus
-            pretium varius. Fusce in odio purus. Fusce molestie ligula
-            ac fermentum porta. Proin interdum facilisis lectus et
-              luctus.</p>
-	    
-
-	    <p>Donec malesuada placerat auctor. Pellentesque placerat
+	    suscipit neque sed vehicula finibus.</p>
+	  
+	</div>
+      </article>
+      
+      <article class="tab">
+	<input type="radio" id="tab-2" name="tab-group-1">
+	<label for="tab-2">Call for Sponsors</label>
+	<div class="content">
+	  <p>Suspendisse tristique nisl vitae lacus malesuada, ut
+	    placerat augue commodo. Suspendisse ultricies accumsan
+	    lectus, quis aliquam tellus bibendum in. Duis convallis
+	    sagittis nunc. Donec in tellus a purus bibendum commodo
+	    quis quis lectus. Integer id dolor quis libero cursus
+	    consequat ac iaculis tellus. Donec quis ante id tellus
+	    pretium varius. Fusce in odio purus. Fusce molestie ligula
+	    ac fermentum porta. Proin interdum facilisis lectus et
+	    luctus.</p>
+	  
+	  
+	  <p>Donec malesuada placerat auctor. Pellentesque placerat
 	    eget augue nec scelerisque. Quisque condimentum sit amet
 	    justo sed dapibus. Aliquam mattis euismod arcu, eu
 	    eleifend libero efficitur consequat. Ut a lectus
@@ -206,29 +82,87 @@
 	    turpis. Fusce quis arcu sit amet augue tincidunt hendrerit
 	    consequat a lorem. Donec vitae ligula vel elit scelerisque
 	    varius vitae eu sem. Morbi accumsan sed est ac
-	      sagittis. Nam semper eu massa at auctor.</p>
-	    
-          </div>
-	</article>
-	
-        <article class="tab">
-          <input type="radio" id="tab-3" name="tab-group-1">
-          <label for="tab-3">Tab Three</label>
-          <div class="content">
-            <p>Mauris a feugiat elit. Nunc augue diam, egestas ac
-            porttitor nec, finibus et risus. Sed volutpat finibus sem,
-            ut luctus ante rhoncus quis. Proin faucibus aliquam augue,
-            vel luctus sapien lacinia eget. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Phasellus rutrum
-            sodales mi, sed varius ex malesuada quis. Aliquam quis
-            libero ac enim maximus blandit a non velit. Donec non
-            ullamcorper mi. Sed sed ultricies lacus, id viverra
-            massa. Maecenas a urna sed lacus sagittis
-              pellentesque.</p>
-	    
-          </div>
-	</article>
-      </section>
+	    sagittis. Nam semper eu massa at auctor.</p>
+	  
+	</div>
+      </article>
+      
+      <article class="tab">
+	<input type="radio" id="tab-3" name="tab-group-1">
+	<label for="tab-3">Call for Papers</label>
+	<div class="content">
+	  <p>Mauris a feugiat elit. Nunc augue diam, egestas ac
+	    porttitor nec, finibus et risus. Sed volutpat finibus sem,
+	    ut luctus ante rhoncus quis. Proin faucibus aliquam augue,
+	    vel luctus sapien lacinia eget. Interdum et malesuada
+	    fames ac ante ipsum primis in faucibus. Phasellus rutrum
+	    sodales mi, sed varius ex malesuada quis. Aliquam quis
+	    libero ac enim maximus blandit a non velit. Donec non
+	    ullamcorper mi. Sed sed ultricies lacus, id viverra
+	    massa. Maecenas a urna sed lacus sagittis
+	    pellentesque.</p>
+	  
+	</div>
+      </article>
+
+      <article class="tab">
+	<input type="radio" id="tab-4" name="tab-group-1">
+	<label for="tab-4">Registration</label>
+	<div class="content">
+	  <p>Mauris a feugiat elit. Nunc augue diam, egestas ac
+	    porttitor nec, finibus et risus. Sed volutpat finibus sem,
+	    ut luctus ante rhoncus quis. Proin faucibus aliquam augue,
+	    vel luctus sapien lacinia eget. Interdum et malesuada
+	    fames ac ante ipsum primis in faucibus. Phasellus rutrum
+	    sodales mi, sed varius ex malesuada quis. Aliquam quis
+	    libero ac enim maximus blandit a non velit. Donec non
+	    ullamcorper mi. Sed sed ultricies lacus, id viverra
+	    massa. Maecenas a urna sed lacus sagittis
+	    pellentesque.</p>
+	  
+	</div>
+      </article>
+      <article class="tab">
+	<input type="radio" id="tab-5" name="tab-group-1">
+	<label for="tab-5">Schedule</label>
+	<div class="content">
+	  <p>Mauris a feugiat elit. Nunc augue diam, egestas ac
+	    porttitor nec, finibus et risus. Sed volutpat finibus sem,
+	    ut luctus ante rhoncus quis. Proin faucibus aliquam augue,
+	    vel luctus sapien lacinia eget. Interdum et malesuada
+	    fames ac ante ipsum primis in faucibus. Phasellus rutrum
+	    sodales mi, sed varius ex malesuada quis. Aliquam quis
+	    libero ac enim maximus blandit a non velit. Donec non
+	    ullamcorper mi. Sed sed ultricies lacus, id viverra
+	    massa. Maecenas a urna sed lacus sagittis
+	    pellentesque.</p>
+	  
+	</div>
+      </article>
+      <article class="tab">
+	<input type="radio" id="tab-6" name="tab-group-1">
+	<label for="tab-6">Team</label>
+	<div class="content">
+	  <p>Mauris a feugiat elit. Nunc augue diam, egestas ac
+	    porttitor nec, finibus et risus. Sed volutpat finibus sem,
+	    ut luctus ante rhoncus quis. Proin faucibus aliquam augue,
+	    vel luctus sapien lacinia eget. Interdum et malesuada
+	    fames ac ante ipsum primis in faucibus. Phasellus rutrum
+	    sodales mi, sed varius ex malesuada quis. Aliquam quis
+	    libero ac enim maximus blandit a non velit. Donec non
+	    ullamcorper mi. Sed sed ultricies lacus, id viverra
+	    massa. Maecenas a urna sed lacus sagittis
+	    pellentesque.</p>
+	  
+	</div>
+      </article>
+
+    </section>
+
+    <section>
+      <p>Elbsides is north Germany's premiere community driven
+	computer security conference.</p>
+      <p>We would like to thank our sponsor DFN-CERT.</p>
   </main>
   
 </html>
