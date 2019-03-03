@@ -12,9 +12,12 @@ os.system("git commit -a -m \"auto-commit on publish\"")
 session = boto3.Session(profile_name=PROFILE, region_name=REGION)
 s3_client = session.client('s3')
 
+# files and where they go
+
 www = [
     {'file': 'www/index.html', 'bucket':'elbsides.de', 'key': 'index.html', 'ct':'text/html'},
     {'file': 'www/images/favicon.ico', 'bucket':'elbsides.de', 'key': 'favicon.ico', 'ct':'image/png'},
+    {'file': 'www/images/dfn-cert.gif', 'bucket':'elbsides.de', 'key': 'images/dfn-cert.gif', 'ct':'image/gif'},
     {'file': 'www/images/ElbSides_Circuit_V2.png', 'bucket':'elbsides.de', 'key': 'images/ElbSides_Circuit_V2.png', 'ct':'image/png' },
     {'file': 'www/css/normalize.css', 'bucket':'elbsides.de', 'key': 'css/normalize.css', 'ct':'text/css' },
     {'file': 'www/css/styles.css', 'bucket':'elbsides.de', 'key': 'css/styles.css', 'ct':'text/css'} ]
@@ -23,6 +26,8 @@ c2019 = [
     {'file': '2019/images/favicon.ico', 'bucket':'2019.elbsides.de', 'key': 'favicon.ico', 'ct':'image/png'},
     {'file': '2019/images/ElbSides_Circuit_V3.png', 'bucket':'2019.elbsides.de', 'key': 'images/ElbSides_Circuit_V3.png', 'ct':'image/png' },
     {'file': '2019/css/styles.css', 'bucket':'2019.elbsides.de', 'key': 'css/styles.css', 'ct':'text/css'} ]
+
+# useful functions to stay DRY
 
 def transfer(localFile, bucket, destKey, ct="application/html"):
     print("Getting S3 info from s3://{}/{}".format(bucket, destKey))
@@ -51,6 +56,8 @@ def validate_file(html_file):
 
 def validate_all(file_list):
     return all([validate_file(o['file']) for o in file_list if o['ct'] =='text/html'])
+
+# Do actual stuff
 
 if validate_all(www):
     transfer_all(www)
