@@ -38,7 +38,9 @@ def transfer(localFile, bucket, destKey, ct="application/html"):
         else:
             print("No changes to", localFile, destKey)
     except s3_client.exceptions.NoSuchKey:
-        s3_client.put_object(Bucket=bucket, Key=destKey, ContentType=ct, Body=f)
+        with open(localFile, 'rb') as f:
+            print("Transferring", bucket, destKey)
+            s3_client.put_object(Bucket=bucket, Key=destKey, ContentType=ct, Body=f)
 
 rc = os.system("html5validator www/index.html")
 if rc == 0:
