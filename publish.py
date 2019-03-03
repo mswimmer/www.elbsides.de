@@ -54,7 +54,11 @@ def validate_all(file_list):
 
 if validate_all(www):
     transfer_all(www)
+else:
+    print("www didn't validate")
         
-if transfer_all(c2019):
+if validate_all(c2019):
     transfer_all(c2019)
+else:
+    print("c2019 didn't validate")
 
