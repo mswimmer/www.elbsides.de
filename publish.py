@@ -22,7 +22,7 @@ c2019 = [
     {'file': '2019/index.html', 'bucket':'2019.elbsides.de', 'key': 'index.html', 'ct':'text/html'},
     {'file': '2019/images/favicon.ico', 'bucket':'2019.elbsides.de', 'key': 'favicon.ico', 'ct':'image/png'},
     {'file': '2019/images/ElbSides_Circuit_V3.png', 'bucket':'2019.elbsides.de', 'key': 'images/ElbSides_Circuit_V3.png', 'ct':'image/png' },
-    {'file': '2019/css/styles.css', 'bucket':'2019.elbsides.de', 'key': 'css/styles.css', 'ct':'text/css'} ]
+    {'file': '2019/css/style.css', 'bucket':'2019.elbsides.de', 'key': 'css/style.css', 'ct':'text/css'} ]
 
 def transfer(localFile, bucket, destKey, ct="application/html"):
     print("Getting S3 info from s3://{}/{}".format(bucket, destKey))
