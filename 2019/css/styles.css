@@ -1,17 +1,9 @@
-/* ---------------------------------------------------------
-   HTML5 Bones
-   This stylesheet contains print styling and a section for 
-   you to simply add your own. This is a basic template 
-   after all.
-   ---------------------------------------------------------*/
-
 body {
-    background-image: url("../images/ElbSides_Circuit_V2.png");
+    //background-image: url("../images/ElbSides_Circuit_V2.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #00d298;
     color: white;
-    
 }
 
 a {
@@ -27,6 +19,7 @@ a {
 li {
   list-style-type: none;
 }
+
 a:hover {
   opacity:0.5;
 }
@@ -36,11 +29,13 @@ h1 {
   font-size: 6em;
   font-weight: 400;
 }
+
 h2 {
   font-family: 'work sans', sans serif;
   font-size: 3em;
   font-weight: 400;
 }
+
 p {
   font-family: 'work sans', sans serif;
   font-size: 1em;
@@ -88,6 +83,7 @@ p {
   width: 100%;
   height: 65px;
 }
+
 #container span
 {
   display: flex;
@@ -158,6 +154,7 @@ p {
   transform: rotate(45deg) translate(-3px, -1px);
   background: #36383F;
 }
+
 #menuToggle input:checked ~ span:nth-last-child(3)
 {
   opacity: 0;
@@ -196,8 +193,8 @@ p {
 }
 
 
-@media only screen and (min-width: 768px)
-{
+//@media only screen and (min-width: 768px)
+//{
   /*.topbar
   {
     position: fixed;
@@ -211,4 +208,4 @@ p {
     display: none;
   }
   */
-  }
+//  }
