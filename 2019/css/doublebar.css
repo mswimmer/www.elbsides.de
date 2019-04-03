@@ -1,0 +1,61 @@
+body /* MOBILE */
+{
+	font-size: 30px;
+}
+
+.button
+{
+	height: 40px;
+	width: 40px;
+}
+
+#topbar a
+{
+	display: none;
+}
+
+#navbar a
+{
+	
+}
+
+input 
+{
+
+}
+
+#menubutton span
+{
+  display: flex;
+  top: -30px;
+  left: 5px;
+  width: 30px;
+  height: 2px;
+  margin:  0 0 5px 0;
+  position: relative;
+  background: black;
+  z-index: 1;
+}
+button:active ~ span
+{
+  opacity: 1;
+  transform: rotate(45deg) translate(-3px, -1px);
+  background: #36383F;
+}
+li {
+  list-style-type: none;
+}
+
+@media screen and (min-width: 1200px) /* DESKTOP */
+{
+
+	body
+	{
+		font-size: 30px;
+	}
+
+	#topbar a
+	{
+		display: inline;
+	}
+}
