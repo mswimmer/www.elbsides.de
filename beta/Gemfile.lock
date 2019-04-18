@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/mswimmer/elbsides-jekyll-theme
-  revision: 9998f982d82691b0a739341d6dae4d0ffb530e03
+  revision: f4a433755075bd134f4673be18148181d434819f
   specs:
-    elbsides-jekyll-theme (0.1.0)
+    elbsides-jekyll-theme (0.1.1)
       jekyll (~> 3.7)
 
 GEM
@@ -100,7 +100,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  elbsides-jekyll-theme (~> 0.1)!
+  elbsides-jekyll-theme (~> 0.1.1)!
   jekyll-feed (~> 0.6)
   jekyll-gist (~> 1.5)
   jekyll-include-cache (~> 0.2)
