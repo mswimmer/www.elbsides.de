@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "About"
-    url: /about
+    url: /about.html
   - title: "Sponsors"
-    url: /sponsors
+    url: /sponsors.html
   - title: "Venue"
-    url: /venue
+    url: /venue.html
   - title: "CfP"
-    url: /cfp
+    url: /cfp.html
   - title: "CoC"
-    url: /coc
+    url: /coc.html
   - title: "Team"
-    url: /team
+    url: /team.html
   - title: "Programme"
-    url: /programme
+    url: /programme.html
     
