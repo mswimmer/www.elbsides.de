@@ -14,4 +14,5 @@ main:
     url: /team.html
   - title: "Programme"
     url: /programme.html
-    
+  - title: "Registration"
+    url: /registration.html
