@@ -1,5 +1,5 @@
 ---
-title: "registration"
+title: "Registration"
 layout: archive
 permalink: /registration
 date:  2019-04-20T03:02:20+00:00

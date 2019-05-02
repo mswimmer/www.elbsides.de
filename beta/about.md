@@ -2,7 +2,11 @@
 title: "About"
 layout: archive
 permalink: /about
-date:  2019-04-20T03:02:20+00:00
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum purus dui, cursus ac tempor et, mollis ac eros. Suspendisse accumsan faucibus turpis, non condimentum massa elementum eget. Nunc facilisis vitae erat sed lobortis. Curabitur ultricies dolor libero, at fermentum mi porttitor non. Nulla placerat arcu non lacus volutpat tempor. Aenean sit amet convallis odio. Etiam ultricies nunc sagittis nisi scelerisque, quis mattis massa feugiat. Pellentesque ex arcu, condimentum eleifend lobortis ac, maximus ut mi. Maecenas ut dapibus mauris. Etiam non nulla eu eros ultrices volutpat. Nulla vulputate lobortis diam nec semper. Mauris eget interdum felis, sit amet feugiat nisl. Aliquam ultricies mi a nunc fermentum tempor. Aenean placerat elit ante, eu semper metus placerat eget. Fusce interdum odio ultricies, elementum sapien quis, pharetra orci. Etiam faucibus id ante id sollicitudin.
+[Security BSides](http://securitybsides.com) events are organized by local computer security experts for the benefit of the local community. It is a way of bringing in speakers who may not ordinarily visit our community and it's a way of bringing the community together. 
+
+Elbsides is derived from the successful [HH.Security](https://www.meetup.com/hh-security/) Meetup and some of the organizers of [BSidesMunich](https://bsidesmunich.org). This is the first time this conference is taking place, but with a team experienced in organizing events and conferences, it is going to be a success.
+
+To find out more about what BSides events mean to participants, see [Security BSides' What does BSides mean to me](http://www.securitybsides.com/w/page/87930010/What%20BSides%20Means) page. Other BSides events are listed at the [Security Bsides' Front Page](http://www.securitybsides.com/w/page/12194156/FrontPage).
