@@ -22,4 +22,7 @@ make this happen, we need sponsors to cover our costs.
 
 # How to become a sponsor #
 
+Inquire at elbsides -at- gmail.com to support the Hamburg security
+community by being a sponsor of our event. We are looking forward to
+working with you.
 
