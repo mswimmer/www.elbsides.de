@@ -11,7 +11,7 @@ bundle update
 # Better to set this up manually together with all the Route53 stuff
 #aws $AWS_OPTS s3 mb s3://$BUCKET
 
-aws $AWS_OPTS resourcegroupstaggingapi tag-resources --tags Project=Elbsides --resource-arn-list BUCKET_ARN
+aws $AWS_OPTS resourcegroupstaggingapi tag-resources --tags Project=Elbsides --resource-arn-list $BUCKET_ARN
 
 aws $AWS_OPTS s3api put-bucket-policy --bucket $BUCKET --policy file://s3_bucket_permissions.json
 
