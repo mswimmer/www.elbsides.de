@@ -41,5 +41,7 @@ A past interest in archeology brought Florian to the field of security. To him, 
 
 ## Ingo ##
 
-Ingo works on all things related to information security. Compliance, user security, application security, opsec. He prefers automated, technical solutions and good awareness over a checklist approach to infosec. He is passionate about security. If compliance helps him to get there, that's fine. Ingo enjoys working in a team and in an environment that puts people and trust first.
+[@ingobente](https://twitter.com/ingobente)
+
+Ingo works on all things related to information security. Compliance, user security, application security, opsec. He prefers automated, technical solutions and good awareness over a checklist approach to infosec. He is passionate about security. If compliance helps him to get there, that's fine. Ingo enjoys working in a team and in an environment that puts people and trust first. He is also the organizer of the [HH.security](https://www.meetup.com/hh-security/) meetup. In his spare time, Ingo enjoys modern boardgames.
 
