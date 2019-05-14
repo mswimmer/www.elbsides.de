@@ -44,7 +44,7 @@ Submit using this link: [Elbsides 2019 Easychair](https://easychair.org/conferen
 
 * Ingo Bente
 * Florian Junge
-* Stefan Kelm, DFN-CERT GmbH
+* Stefan Kelm, DFN-CERT Services GmbH
 * Christoph Kemetmueller
 * Hendrik Spiegel
-* Dr. Morton Swimmer (chair)
+* Dr. Morton Swimmer, Trend Micro, Inc. (chair)

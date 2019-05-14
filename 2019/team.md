@@ -31,7 +31,7 @@ After work he is wrapping his head around the fascinating inner lives of ELFs an
 
 ## Stefan ##
 
-For all his professional business life (even years before that) Stefan has been involved in information security. In 1993 he was the first student to be hired by the freshly launched [DFN CERT](https://www.dfn-cert.de/), the first Computer Emergency Response Team in Germany and also one of the first within Europe. After having spent a number of years in the PKI universe he worked as an IT security consultant for the next 15 years before re-joining the awesome crew at [DFN CERT](https://www.dfn-cert.de/) in 2016. He likes IT forensics, Cyber Threat Intelligence, and malware analysis and loves helping people.
+For all his professional business life (even years before that) Stefan has been involved in information security. In 1993 he was the first student to be hired by the freshly launched [DFN-CERT Services GmbH](https://www.dfn-cert.de/), the first Computer Emergency Response Team in Germany and also one of the first within Europe. After having spent a number of years in the PKI universe he worked as an IT security consultant for the next 15 years before re-joining the awesome crew at [DFN-CERT Services GmbH](https://www.dfn-cert.de/) in 2016. He likes IT forensics, Cyber Threat Intelligence, and malware analysis and loves helping people.
 
 ## Florian ##
 
