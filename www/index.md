@@ -11,7 +11,7 @@ Please see the [2019 conference web site](https://2019.elbsides.de) for further 
 
 ## [Sponsors](https://2019.elbsides.de/sponsors.html) ##
 
-Such an event cannot be organized without the support of the community as the admission fee is mearly a token amount. So we cannot thank our sponsors enough in making this event possible.
+Such an event cannot be organized without the support of the community as the admission fee is merely a token amount. So we cannot thank our sponsors enough in making this event possible.
 
 ![DFN CERT logo](assets/images/dfn-cert.gif)
 

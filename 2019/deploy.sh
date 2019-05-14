@@ -25,4 +25,5 @@ aws $AWS_OPTS s3 website s3://$BUCKET \
 invalidate_files=`grep "upload" /tmp/sync.lst | grep --only-matching "\(s3.*\)" | sed "s/s3:\/\/2019.elbsides.de//"`
 echo $invalidate_files
 
-aws $AWS_OPTS cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths $invalidate_files
+#aws $AWS_OPTS cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths $invalidate_files
+aws $AWS_OPTS cloudfront create-invalidation --distribution-id $CDN_DISTRIBUTION_ID --paths "/*"

@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/mswimmer/elbsides-jekyll-theme
-  revision: fb8f2826e3c206c03ce470d3bbf5a8baf724e0ff
+  revision: f166499e1d72d307c223dac0cb095651649719ca
   specs:
     elbsides-jekyll-theme (0.1.2)
       jekyll (~> 3.8.5)
@@ -70,7 +70,7 @@ GEM
     mercenary (0.3.6)
     mini_portile2 (2.4.0)
     minitest (5.11.3)
-    multipart-post (2.1.0)
+    multipart-post (2.1.1)
     nokogiri (1.10.3)
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
