@@ -68,9 +68,16 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Elbsides main site"
+      url: "https://elbsides.de"
+    - label: "Impressum"
+      icon: "fab fa-link"
+      url: "impressum.html"
+    - label: "GDPR"
+      url: "gdpr.html"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://twitter.com/elbsides
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

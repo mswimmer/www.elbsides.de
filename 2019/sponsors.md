@@ -31,4 +31,8 @@ inquire at elbsides -at- gmail.com. We are looking forward to working with you!
 # Bronze Sponsors #
 
 
+# Community Sponsors "
+
+[BSidesMunich](https://bsidesmunich.org)
+
 
