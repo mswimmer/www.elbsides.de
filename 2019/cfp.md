@@ -9,6 +9,11 @@ Elbsides is a venue for security professionals, software engineers, students, re
 
 **The deadline for submission is June 15, 2019.**
 
+### Workshops ###
+
+We welcome submissions for workshops, but not through the normal process. Please email us at elbsides -
+at -  gmail.com with your proposal.
+
 # Topics #
 
 We are soliciting talks on computer security topics, but are not limited to the following:
