@@ -9,10 +9,10 @@ permalink: /gdpr
 
 Anbieter und verantwortliche Stelle im Sinne der EU-DSGVO
 
-* Name der Firma
-* Vertretungsberechtigter Ansprechpartner
-* Straße und Hausnummer
-* PLZ Ort
+* Swimmer Event Management
+* Dagmar Swimmer
+* Ernst-Barlach-Str. 3
+* 22880 Wedel
 
 ## Geltungsbereich ##
 

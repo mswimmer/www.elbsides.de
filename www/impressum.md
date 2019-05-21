@@ -7,23 +7,22 @@ permalink: /impressum
 
 gemäß §§ 5, 6 TMG und § 55 RStV:
 
-* firma
-* addresse 1
-* addresse 2
+* Swimmer Event Management
+* Ernst-Barlach-Str.3
+* 22880 Wedel
 
-Telefon:
+Telefon: 04103-9050082
 
-Mail: 
+Mail: elbsides - at - gmail.com
 
-Geschäftsführung:
+Geschäftsführung: Dagmar Swimmer
 
-Registergericht:
+Amtsgericht: Pinneberg
 
-Umsatzsteuer-Id-Nr.:
+Umsatzsteuer-Id-Nr.: 31/078/02966
 
-D-U-N-S Nummer:
 
-Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV ist
+Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV ist Dagmar Swimmer.
 
 # Rechtliche Hinweise #
 

@@ -32,11 +32,8 @@ The programme will be announced after the papers have been selected.
 | Time               | Room | Title           | Speaker  |
 | ----------- |:-----| ---------:|:-------|
 | 08:30 - 09:00 |           | registration |               |
-| 09:00 - 11:00 | I         | tba              | tba         |
-| 09:00 - 11:00 | I I       | tba              | tba         |
-| 11:00 - 13:00 | I         | tba              | tba         |
-| 11:00 - 13:00 | I I       | tba              | tba         |
-| 13:00 - 15:00 | I         | tba              | tba         |
-| 13:00 - 15:00 | I I       | tba              | tba         |
-| 15:00 - 17:00 | I         | tba              | tba         |
-| 15:00 - 17:00 | I I       | tba              | tba         |
+| 09:00 - 13:00 | I         | tba              | tba         |
+| 09:00 - 13:00 | I I       | tba              | tba         |
+| 13:00 - 17:00 | I         | tba              | tba         |
+| 13:00 - 17:00 | I I       | tba              | tba         |
+
