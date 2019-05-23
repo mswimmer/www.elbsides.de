@@ -25,8 +25,6 @@ make this happen, we need sponsors to cover our costs.
 	</tr>
 </table>
 
-
-
 # Gold Sponsors #
 
 <table>
