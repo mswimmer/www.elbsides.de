@@ -45,10 +45,17 @@ make this happen, we need sponsors to cover our costs.
 <table>
 	<tr>
 		<td>
-			First silver sponsor will be announced soon!
+			First silver sponsor will be announced as soon as all
+	parties sign!
+		</td>
+		<td>
+			The next silver sponsor is also agreed on!
 		</td>
 	</tr>
 	<tr>
+		<td>
+			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+		</td>
 		<td>
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
