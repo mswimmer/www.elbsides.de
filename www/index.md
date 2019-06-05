@@ -13,7 +13,7 @@ Please see the [2019 conference web site](https://2019.elbsides.de) for further 
 
 Such an event cannot be organized without the support of the community as the admission fee is merely a token amount. So we cannot thank our sponsors enough in making this event possible.
 
-![DFN CERT logo](assets/images/dfn-cert.gif)
+![DFN CERT logo](assets/images/dfn-cert.png)
 
 We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de) and [BSidesMunich](https://www.bsidesmunich.org), but we need more.
 	

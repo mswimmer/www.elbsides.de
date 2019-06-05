@@ -35,7 +35,7 @@ make this happen, we need sponsors to cover our costs.
 	</tr>
 	<tr>
 		<td>
-			<img src="assets/images/dfn-cert.gif" alt="DFN-CERT Services GmbH" width="200px" />
+			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
 		</td>
 	</tr>
 </table>
