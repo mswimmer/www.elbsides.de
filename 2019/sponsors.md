@@ -45,16 +45,15 @@ make this happen, we need sponsors to cover our costs.
 <table>
 	<tr>
 		<td>
-			First silver sponsor will be announced as soon as all
-	parties sign!
+			<a href="https://www.schutzwerk.com">Schutzwerk GmbH</a>
 		</td>
 		<td>
-			The next silver sponsor is also agreed on!
+			The next silver sponsor will be announced soon!
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<a href="https://www.schutzwerk.com"><img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" /></a>
 		</td>
 		<td>
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
