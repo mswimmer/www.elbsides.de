@@ -19,8 +19,7 @@ Geschäftsführung: Dagmar Swimmer
 
 Amtsgericht: Pinneberg
 
-Umsatzsteuer-Id-Nr.: 31/078/02966
-
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz USt-Id-Nr: DE281393050
 
 Inhaltlich verantwortlich gemäß § 55 Abs. 2 RStV ist Dagmar Swimmer.
 
@@ -43,4 +42,11 @@ Die in diesem Angebot zugänglichen Arbeiten sind urheberrechtlich geschützt. J
 
 ## Disclaimer ##
 
-Die hier zugänglichen Informationen wurden zusammengestellt von der --- . Weder die --- noch der der ---, oder einzelne Mitarbeiterinnen und Mitarbeiter übernehmen irgendeine Form der Gewährleistung. Weiterhin wird keine Haftung für die Korrektheit, Vollständigkeit, Wirksamkeit oder Anwendbarkeit der enthaltenen Informationen und der vorgeschlagenen Maßnahmen übernommen. Insbesondere wird keine Verantwortung für die Verwendung der enthaltenen Informationen und eventuell dadurch entstehende Schäden übernommen. Die Nutzung erfolgt auf eigene Gefahr.
+Die hier zugänglichen Informationen wurden zusammengestellt von
+Swimmer Event Management. Es wird keine Form der Gewährleistung
+übernommen. Weiterhin wird keine Haftung für die Korrektheit,
+Vollständigkeit, Wirksamkeit oder Anwendbarkeit der enthaltenen
+Informationen und der vorgeschlagenen Maßnahmen
+übernommen. Insbesondere wird keine Verantwortung für die Verwendung
+der enthaltenen Informationen und eventuell dadurch entstehende
+Schäden übernommen. Die Nutzung erfolgt auf eigene Gefahr.

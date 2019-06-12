@@ -30,12 +30,12 @@ make this happen, we need sponsors to cover our costs.
 <table>
 	<tr>
 		<td>
-			<a href="(https://www.dfn-cert.de/">DFN-CERT Services GmbH</a>
+			Our gold sponsor will be announced soon!
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
+			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
 	</tr>
 </table>
@@ -45,6 +45,9 @@ make this happen, we need sponsors to cover our costs.
 <table>
 	<tr>
 		<td>
+			<a href="https://www.dfn-cert.de/">DFN-CERT Services GmbH</a>
+		</td>
+		<td>
 			<a href="https://www.schutzwerk.com">Schutzwerk GmbH</a>
 		</td>
 		<td>
@@ -53,7 +56,10 @@ make this happen, we need sponsors to cover our costs.
 	</tr>
 	<tr>
 		<td>
-			<a href="https://www.schutzwerk.com"><img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" /></a>
+			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
+		</td>
+		<td>
+			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" />
 		</td>
 		<td>
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
