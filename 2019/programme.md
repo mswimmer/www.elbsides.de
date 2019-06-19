@@ -120,15 +120,14 @@ the first anti-spam company (MAPS) where he co-invented the DNS RBL
 (Realtime Blackhole List) that now protects all e-mail planet-wide,
 and was the founder and later president of the first U.S.-based
 commercial Internet Exchange (PAIX). Today he serves as CEO of
-Farsight Security, home of the Security Information Exchange (SIE) and
+Farsight Security, home of the Security Information Exchange
+([SIE Europe UG](http://sie-europe.net/)) and
 the world's leading Passive DNS database (DNSDB). He managed the
 F-root DNS server from 1996 to 2012, and wrote the Cron software used
 on all UNIX-type computers today. He is also co-inventor of the DNS
 Response Rate Limiting (RRL) and Response Policy Zone (RPZ)
 feature-sets now in wide use to protect the operational Internet
-Domain Name System against online attacks. In 2018, he cofounded
-[SIE Europe UG](http://sie-europe.net/), a breakthrough European
-data sharing collective to fight cybercrime. He received his Ph.D. from
+Domain Name System against online attacks. He received his Ph.D. from
 Keio University in 2011, and was inducted into the Internet Hall of
 Fame in 2014.
 
