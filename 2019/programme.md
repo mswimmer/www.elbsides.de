@@ -111,7 +111,10 @@ Please bring the following prerequisites to this workshop:
 
 ![Paul Vixie](assets/images/Paul-Vixie.jpg)
 
-Paul Vixie was responsible for BIND from 1989 to 1999, and is the
+Company: [Farsight Security, Inc.](https://www.farsightsecurity.com)
+
+[Paul Vixie](https://en.wikipedia.org/wiki/Paul_Vixie) was responsible
+for BIND from 1989 to 1999, and is the
 author of a dozen or so IETF RFC documents about DNS. He also started
 the first anti-spam company (MAPS) where he co-invented the DNS RBL
 (Realtime Blackhole List) that now protects all e-mail planet-wide,
@@ -123,10 +126,13 @@ F-root DNS server from 1996 to 2012, and wrote the Cron software used
 on all UNIX-type computers today. He is also co-inventor of the DNS
 Response Rate Limiting (RRL) and Response Policy Zone (RPZ)
 feature-sets now in wide use to protect the operational Internet
-Domain Name System against online attacks. He received his Ph.D. from
+Domain Name System against online attacks. In 2018, he cofounded
+[SIE Europe UG](http://sie-europe.net/), a breakthrough European
+data sharing collective to fight cybercrime. He received his Ph.D. from
 Keio University in 2011, and was inducted into the Internet Hall of
 Fame in 2014.
 
+* Twitter: [@paulvixie](https://twitter.com/paulvixie)
 
 ## Björn Kimminich ##
 
