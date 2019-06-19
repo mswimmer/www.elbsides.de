@@ -21,12 +21,15 @@ Such an event cannot be organized without the support of the community as the ad
 		<td style="background-color: white; border: 5px solid #00d298;">
 			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk	GmbH" width="200px"/>
 		</td>
+		<td style="background-color: white; border: 5px solid #00d298;">
+			<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg"	alt="Hamburg Port Authority" width="200px"/>
+		</td>
 	</tr>
 </table>
 	
 
 We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
-[Schutzwerk GmbH ](https://www.schutzwerk.com) and
+[Schutzwerk GmbH ](https://www.schutzwerk.com), [ Hamburg Port Authority ](https://www.hamburg-port-authority.de) and
 [BSidesMunich](https://www.bsidesmunich.org), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.

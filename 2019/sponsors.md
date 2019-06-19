@@ -51,7 +51,7 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.schutzwerk.com">Schutzwerk GmbH</a>
 		</td>
 		<td>
-			The next silver sponsor will be announced soon!
+			<a href="https://www.hamburg-port-authority.de">Hamburg	Port Authority AöR</a>
 		</td>
 	</tr>
 	<tr>
@@ -60,6 +60,28 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
 			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+			<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="200px" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			The next silver sponsor will be announced soon!
+		</td>
+		<td>
+			The next silver sponsor will be announced soon!
+		</td>
+		<td>
+			The next silver sponsor will be announced soon!
+		</td>
+	</tr>
+	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
