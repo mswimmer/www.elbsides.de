@@ -13,19 +13,19 @@ The programme will be announced after the papers have been selected.
 | ------------- |:-------------|:------|
 | 08:30 - 09:00      | registration        |              |
 | 09:00 - 09:10      | intro                   |              |
-| 09:10 - 09:40      | keynote             |    tba |
-| 09:40 - 10:25      | tba     |    tba |
-| 10:25 - 11:10      | tba     |    tba |
-| 11:10 - 11:40      | break     |     |
-| 11:40 - 12:20      | tba     |    tba |
-| 12:20 - 13:00      | tba     |    tba |
-| 13:00 - 14:05      | lunch     |     |
-| 14:05 - 14:50      | tba     |    tba |
-| 14:50 - 15:35      | tba     |    tba |
-| 15:35 - 16:00      | break     |     |
-| 16:00 - 16:40      | tba     |    tba |
-| 16:40 - 17:20      | tba     |    tba |
-| 17:20 - 17:30      | closing     |     |
+| 09:10 - 10:10      | [Keynote: The Past, Present, and Future of DNS Resolution](#keynote-the-past-present-and-future-of-dns-resolution) | [Paul Vixie](#paul-vixie) |
+| 10:10 - 10:55      | tba     |    tba |
+| 10:55 - 11:10      | break     |     |
+| 11:10 - 11:55      | tba     |    tba |
+| 11:55 - 12:40      | tba     |    tba |
+| 12:40 - 13:30      | lunch     |     |
+| 13:30 - 14:15      | tba     |    tba |
+| 14:15 - 15:00      | tba     |    tba |
+| 15:00 - 15:15      | break     |     |
+| 15:15 - 16:00      | tba     |    tba |
+| 16:00 - 16:45      | tba     |    tba |
+| 16:45 - 17:30     | tba      |    tba |
+| 17:30 - 17:40      | closing     |     |
 
 # Workshop Programme #
 
@@ -48,6 +48,27 @@ The programme will be announced after the papers have been selected.
 # Presentations #
 
 All presentations will be announced after the [Call for Papers](cfp.html) has closed and the paper selection is done.
+
+## Keynote: The Past, Present, and Future of DNS Resolution ##
+
+* Speaker: [Paul Vixie](#paul-vixie)
+* Time: 9:10
+* Length: 1h
+* Room: Auditorium
+
+The Domain Name System has been a critical enabler of Internet growth
+since its inception in 1987. In the decades since then, the DNS
+resolution process has evolved from the LAN to the WAN, and to
+Anycast; it now includes DNSSEC validation, Extended DNS (EDNS) Client
+Subnet, larger message sizes, and I18N. The resolution processs has
+also been abused for surveillance, advertising insertion, and
+exfiltration. Today the DNS resolution process is poorly understood,
+and yet under forced revision. The trend is for DNS to be carried
+inside HTTPS where it cannot be monitored or controlled except by
+servers and clients themselves, and the dangers this will yield must
+be studied and discussed while the future remains flexible. Dr. Vixie
+will describe the past and present of DNS, and discuss its likely near
+term future.
 
 # Workshop descriptions #
 
@@ -85,6 +106,27 @@ Please bring the following prerequisites to this workshop:
 
 
 # Speakers #
+
+## Paul Vixie ##
+
+![Paul Vixie](assets/images/Paul-Vixie.jpg)
+
+Paul Vixie was responsible for BIND from 1989 to 1999, and is the
+author of a dozen or so IETF RFC documents about DNS. He also started
+the first anti-spam company (MAPS) where he co-invented the DNS RBL
+(Realtime Blackhole List) that now protects all e-mail planet-wide,
+and was the founder and later president of the first U.S.-based
+commercial Internet Exchange (PAIX). Today he serves as CEO of
+Farsight Security, home of the Security Information Exchange (SIE) and
+the world's leading Passive DNS database (DNSDB). He managed the
+F-root DNS server from 1996 to 2012, and wrote the Cron software used
+on all UNIX-type computers today. He is also co-inventor of the DNS
+Response Rate Limiting (RRL) and Response Policy Zone (RPZ)
+feature-sets now in wide use to protect the operational Internet
+Domain Name System against online attacks. He received his Ph.D. from
+Keio University in 2011, and was inducted into the Internet Hall of
+Fame in 2014.
+
 
 ## Björn Kimminich ##
 
