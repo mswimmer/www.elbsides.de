@@ -34,13 +34,13 @@ The programme will be announced after the papers have been selected.
 | ------------- |:----------| :----------------------------- |:--------------|
 | 08:30 - 09:00 |           | registration                   |               |
 |---------------+-----------+--------------------------------+---------------|
-| 09:00 - 13:00 | A         | [Elbsides vs. Juice Shop](#elbsides-vs-juice-shop) | [Björn Kimminich](#björn-kimminich) |
+| 11:10 - 12:40 | A         | tba                                | tba         |
 |---------------+-----------+--------------------------------+---------------|
-| 09:00 - 13:00 | B       | tba                                | tba         |
+| 11:10 - 12:40 | B       | tba                                | tba         |
 |---------------+-----------+--------------------------------+---------------|
-| 13:00 - 17:00 | A         | tba                                | tba         |
+| 13:30 - 17:30 | A         | [Elbsides vs. Juice Shop](#elbsides-vs-juice-shop) | [Björn Kimminich](#björn-kimminich) |
 |---------------+-----------+--------------------------------+---------------|
-| 13:00 - 17:00 | B       | tba                                | tba         |
+| 13:30 - 17:30 | B       | tba                                | tba         |
 |---------------+-----------+--------------------------------+---------------|
 
 -------------------------------------------------------------------------------
@@ -75,9 +75,9 @@ term future.
 ## Elbsides vs. Juice Shop ##
 
 * Speaker: [Björn Kimminich](#björn-kimminich)
-* Time: 9:00-13:00
+* Time: 13:30-17:30
 * Length: 4h
-* Room: a
+* Room: A
 
 In this workshop you can test your skills in hacking modern
 web applications against the OWASP Juice Shop! There are 85+
