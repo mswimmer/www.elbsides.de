@@ -14,22 +14,29 @@ Please see the [2019 conference web site](https://2019.elbsides.de) for further 
 Such an event cannot be organized without the support of the community as the admission fee is merely a token amount. So we cannot thank our sponsors enough in making this event possible.
 
 <table>
-	<tr>
-		<td style="background-color: white; border: 5px solid #00d298;">
-			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
-		</td>
-		<td style="background-color: white; border: 5px solid #00d298;">
-			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk	GmbH" width="200px"/>
-		</td>
-		<td style="background-color: white; border: 5px solid #00d298;">
-			<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg"	alt="Hamburg Port Authority" width="200px"/>
-		</td>
-	</tr>
+		<tr>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk	GmbH" width="200px"/>
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg"	alt="Hamburg Port Authority" width="200px"/>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" alt="Holisticon" width="200px" />
+			</td>
+		</tr>
+
 </table>
 	
-
+	
+	
 We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
-[Schutzwerk GmbH ](https://www.schutzwerk.com), [ Hamburg Port Authority ](https://www.hamburg-port-authority.de) and
+[Schutzwerk GmbH ](https://www.schutzwerk.com), [ Hamburg Port Authority ](https://www.hamburg-port-authority.de), [Holisticon AG](https://www.holisticon.de) and
 [BSidesMunich](https://www.bsidesmunich.org), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.

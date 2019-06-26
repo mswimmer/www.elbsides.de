@@ -55,19 +55,19 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298;	text-align: center; min-width:200px">
 			<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
 		</td>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk GmbH" width="200px" />
 		</td>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="200px" />
 		</td>
 	</tr>
 	<tr>
 		<td>
-			The next silver sponsor will be announced soon!
+			<a href="https://www.holisticon.de">Holisticon AG</a>
 		</td>
 		<td>
 			The next silver sponsor will be announced soon!
@@ -77,13 +77,13 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
+			<img src="assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" alt="Holisticon" width="200px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
-		</td>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
 	</tr>
