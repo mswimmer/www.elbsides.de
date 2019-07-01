@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/mswimmer/elbsides-jekyll-theme
-  revision: e6a229ea8f3c834d14c9d2ea766c3cf3bdb80bf7
+  revision: a4b77feeb040f1b1b1049f040af86211c3fc6e73
   specs:
-    elbsides-jekyll-theme (0.1.3)
+    elbsides-jekyll-theme (0.1.9)
       jekyll (~> 3.8.5)
 
 GEM

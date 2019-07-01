@@ -70,10 +70,10 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.holisticon.de">Holisticon AG</a>
 		</td>
 		<td>
-			The next silver sponsor will be announced soon!
+			<a href="https://www.pre-sense.de">PRESENSE Technologies GmbH</a>
 		</td>
 		<td>
-			The next silver sponsor will be announced soon!
+			Will be announced soon!
 		</td>
 	</tr>
 	<tr>
@@ -81,7 +81,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" alt="Holisticon" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<img src="assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="PRESENSE Technologies GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
@@ -94,10 +94,22 @@ make this happen, we need sponsors to cover our costs.
 <table>
 	<tr>
 		<td>
-						First bronze sponsor will be announced soon!
+			<a href="https://www.codemetrix.io">Codemetrix GmbH</a>
+		</td>
+		<td>
+			Will be announced soon!
+		</td>
+		<td>
+			Will be announced soon!
 		</td>
 	</tr>
 	<tr>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+			<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 		</td>
@@ -118,4 +130,3 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 	</tr>
 </table>
-

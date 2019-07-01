@@ -29,6 +29,12 @@ Such an event cannot be organized without the support of the community as the ad
 			<td style="background-color: white; border: 5px solid #00d298;">
 				<img src="assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" alt="Holisticon" width="200px" />
 			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="PRESENSE Technologies GmbH" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
+			</td>
 		</tr>
 
 </table>
@@ -36,7 +42,11 @@ Such an event cannot be organized without the support of the community as the ad
 	
 	
 We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
-[Schutzwerk GmbH ](https://www.schutzwerk.com), [ Hamburg Port Authority ](https://www.hamburg-port-authority.de), [Holisticon AG](https://www.holisticon.de) and
+[Schutzwerk GmbH ](https://www.schutzwerk.com),
+[ Hamburg Port Authority ](https://www.hamburg-port-authority.de),
+[Holisticon AG](https://www.holisticon.de),
+[PRESENSE Technologies GmbH](https://www.pre-sense.de),
+[Codemetrix GmbH](https://www.codemetrix.io) and
 [BSidesMunich](https://www.bsidesmunich.org), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.
