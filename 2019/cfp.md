@@ -13,8 +13,10 @@ Elbsides is a venue for security professionals, software engineers, students, re
 
 ### Workshops ###
 
-We welcome submissions for workshops, but not through the normal process. Please email us at elbsides -
-at -  gmail.com with your proposal.
+~~We welcome submissions for workshops, but not through the normal process. Please email us at elbsides -
+at -  gmail.com with your proposal.~~
+
+Call for Workshops is now closed. We thank you for your submissions.
 
 # Topics #
 
