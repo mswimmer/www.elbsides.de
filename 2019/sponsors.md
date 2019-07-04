@@ -97,7 +97,7 @@ make this happen, we need sponsors to cover our costs.
 			<a href="https://www.codemetrix.io">Codemetrix GmbH</a>
 		</td>
 		<td>
-			Will be announced soon!
+			<a href="https://www.sumcumo.com">sum.cumo GmbH</a>
 		</td>
 		<td>
 			Will be announced soon!
@@ -108,7 +108,7 @@ make this happen, we need sponsors to cover our costs.
 			<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
-			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
 			<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />

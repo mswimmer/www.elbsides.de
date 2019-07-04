@@ -22,7 +22,7 @@ Such an event cannot be organized without the support of the community as the ad
 				<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk	GmbH" width="200px"/>
 			</td>
 			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg"	alt="Hamburg Port Authority" width="200px"/>
+				<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="200px"/>
 			</td>
 		</tr>
 		<tr>
@@ -36,6 +36,17 @@ Such an event cannot be organized without the support of the community as the ad
 				<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
 			</td>
 		</tr>
+		<tr>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			</td>
+		</tr>
 
 </table>
 	
@@ -46,7 +57,8 @@ We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [ Hamburg Port Authority ](https://www.hamburg-port-authority.de),
 [Holisticon AG](https://www.holisticon.de),
 [PRESENSE Technologies GmbH](https://www.pre-sense.de),
-[Codemetrix GmbH](https://www.codemetrix.io) and
+[Codemetrix GmbH](https://www.codemetrix.io),
+[sum.cumo GmbH](https://www.sumcumo.com) and
 [BSidesMunich](https://www.bsidesmunich.org), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.
