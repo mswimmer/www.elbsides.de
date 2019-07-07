@@ -1,7 +1,7 @@
 ---
 title: "Registration"
 layout: archive
-permalink: /registration
+permalink: /registration.html
 
 ---
 

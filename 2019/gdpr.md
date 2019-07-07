@@ -1,7 +1,7 @@
 ---
 title: "GDPR/EU-DSGVO"
 layout: archive
-permalink: /gdpr
+permalink: /gdpr.html
 
 ---
 

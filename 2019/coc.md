@@ -1,8 +1,8 @@
 ---
 title: "Code of Conduct"
 layout: archive
-permalink: /coc
-date:  2019-04-20T03:02:20+00:00
+permalink: /coc.html
+
 ---
 
 Our Code of Conduct is based on the [BSidesMunich Code of Conduct](http://www.bsidesmunich.org/codeofconduct/) which in turn is based on thr [berlincodeofconduct.org ](https://berlincodeofconduct.org).

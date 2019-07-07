@@ -1,7 +1,7 @@
 ---
 title: "Team"
 layout: archive
-permalink: /team
+permalink: /team.html
 
 ---
 

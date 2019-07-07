@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 layout: archive
-permalink: /impressum
+permalink: /impressum.html
 
 ---
 

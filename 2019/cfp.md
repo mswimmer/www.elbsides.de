@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers"
 layout: archive
-permalink: /cfp
+permalink: /cfp.html
 
 ---
 

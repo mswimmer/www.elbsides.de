@@ -1,7 +1,7 @@
 ---
 title: "Sponsors"
 layout: archive
-permalink: /sponsors
+permalink: /sponsors.html
 
 ---
 
