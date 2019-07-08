@@ -123,10 +123,16 @@ make this happen, we need sponsors to cover our costs.
 		<td>
 			<a href="http://bsidesmunich.org">BSidesMunich</a>
 		</td>
+		<td>
+			<a href="https://www.louis.eu">Detlev Louis Motorrad-Vertriebsgesellschaft mbH</a>
+		</td>
 	</tr>
 	<tr>
-		<td style="background-color: white; border: 5px solid #00d298; text-align: center;">
+		<td style="background-color: white; border: 5px solid #00d298;	text-align: center;"  width="200px">
 			<img src="assets/images/bsidesmunich_logo_website_banner_2019-slider-bg.png" alt="BSides Munich" width="200px" />
+		</td>
+		<td style="background-color: white; border: 5px solid #00d298;	text-align: center;"  width="200px">
+			<img src="assets/images/louis-logo.png" alt="Louis" width="200px" />
 		</td>
 	</tr>
 </table>
