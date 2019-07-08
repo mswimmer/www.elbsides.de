@@ -5,6 +5,8 @@ permalink: /programme.html
 
 ---
 
+**The conference and workshop date is 16th of September, 2019.**
+
 All conference talks will be in the [Elbe](venue.html#elbe) room.
 
 | Time   |                | Title                    | Speaker  |
@@ -30,6 +32,7 @@ Reserve paper: [When Your Biggest Threat is on Your Payroll: Drivers & Enablers 
 
 # Workshop Programme #
 
+The room for each workshop is listed below.
 
 |------- | ------ +-----------+--------------------------------+---------------|
 | Time   |        | Room     | Title                          | Speaker       |
