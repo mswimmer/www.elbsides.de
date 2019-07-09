@@ -9,21 +9,6 @@ This is a community event and in order to stay as inclusive as
 possible, we try to keep the admission as low as possible. But, to
 make this happen, we need sponsors to cover our costs.
 
-# How to become a sponsor #
-
-<table>
-	<col width="70%">
-	<col width="30%">
-	<tr>
-		<td>
-		If you would like to be a sponsor and support the Hamburg security community, please see our <a href="assets/documents/Sponsorpaket Elbsides 2019.pdf">sponsor package</a> and inquire at elbsides -at- gmail.com. We are looking forward to working with you!
-		
-		</td>
-		<td>
-			<a href="assets/documents/Sponsorpaket Elbsides 2019.pdf"><img src="assets/images/Sponsorpaket Elbsides 2019 cover.png" alt="Sponsor package"/></a>
-		</td>
-	</tr>
-</table>
 
 # Gold Sponsors #
 
@@ -133,6 +118,22 @@ make this happen, we need sponsors to cover our costs.
 		</td>
 		<td style="background-color: white; border: 5px solid #00d298;	text-align: center;"  width="200px">
 			<img src="assets/images/louis-logo.png" alt="Louis" width="200px" />
+		</td>
+	</tr>
+</table>
+
+# How to become a sponsor #
+
+<table>
+	<col width="70%">
+	<col width="30%">
+	<tr>
+		<td>
+		If you would like to be a sponsor and support the Hamburg security community, please see our <a href="assets/documents/Sponsorpaket Elbsides 2019.pdf">sponsor package</a> and inquire at elbsides -at- gmail.com. We are looking forward to working with you!
+		
+		</td>
+		<td>
+			<a href="assets/documents/Sponsorpaket Elbsides 2019.pdf"><img src="assets/images/Sponsorpaket Elbsides 2019 cover.png" alt="Sponsor package"/></a>
 		</td>
 	</tr>
 </table>
