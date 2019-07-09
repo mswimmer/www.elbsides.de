@@ -5,8 +5,10 @@ permalink: /registration.html
 
 ---
 
-Registration for Elbsides 2019 will open on **July 10, 2019 at 11:00 (am)**. Stay tuned by following
-us on Twitter at: [@Elbsides](https://twitter.com/elbsides).
+Registration for Elbsides 2019 will open on **July 10, 2019 at 11:00
+(am)
+[CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time)**. Stay
+tuned by following us on Twitter at: [@Elbsides](https://twitter.com/elbsides).
 
 Regular admission will be EUR 20.
 
