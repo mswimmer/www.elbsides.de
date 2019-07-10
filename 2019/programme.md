@@ -39,7 +39,7 @@ The room for each workshop is listed below.
 | ------ | ------ |:---------| :----------------------------- |:--------------|
 | 08:00  | 09:00  |           | registration                   |               |
 |------- | -------+-----------+--------------------------------+---------------|
-| 10:55  | 12:55  | [Alster](venue.html#alster) | [From source code to the final end - The way of an encryption trojan from attacker to your company](#from-source-code-to-the-final-end---the-way-of-an-encryption-trojan-from-attacker-to-your-company) | [Patrick Jung](#patrick-jung), [Clemens Rambow](#clemens-rambow) |
+| 10:55  | 12:55  | [Alster](venue.html#alster) | [From source code to the final end - The way of an encryption trojan from attacker to your company](#from-source-code-to-the-final-end---the-way-of-an-encryption-trojan-from-attacker-to-your-company) | [Constantin Zankl ](#constantin-zankl), [Clemens Rambow](#clemens-rambow) |
 |------- | -------+-----------+--------------------------------+---------------|
 | 13:50  | 17:50  | [Alster](venue.html#alster) | [Elbsides vs. Juice Shop](#elbsides-vs-juice-shop) | [Björn Kimminich](#björn-kimminich) |
 |------- | -------+-----------+--------------------------------+---------------|
@@ -257,7 +257,7 @@ Working installation of the following tools:
 
 
 ## From source code to the final end - The way of an encryption trojan from attacker to your company ##
-* Speakers: [Patrick Jung](#patrick-jung), [Clemens Rambow](#clemens-rambow)
+* Speakers: [Constantin Zankl ](#constantin-zankl), [Clemens Rambow](#clemens-rambow)
 * Length: 2h
 * Time: 10:55
 * Room: [Alster](venue.html#alster)
@@ -332,7 +332,7 @@ Björn Kimminich is responsible for global IT architecture and application secur
 
 Hey there, I’m Richard. I’m busy disassembling technology and software since 1991. Around 1995 I started with what most of you would call “hacking”. And since 2003 I’m working in information, IT and cyber security. I’ve been working in security R&D, as a consultant, consulting (senior-) manager, team lead, head of cyber/information security and director of cyber/information security. All the way from Germany, over Reykjavik (Iceland) to London (UK).
 
-## Patrick Jung ##
+## Constantin Zankl  ##
 * Workshop: [From source code to the final end - The way of an encryption trojan from attacker to your company](#from-source-code-to-the-final-end---the-way-of-an-encryption-trojan-from-attacker-to-your-company)
 * Company: [Allgeier CORE GmbH](https://www.allgeier-core.com/)
 
