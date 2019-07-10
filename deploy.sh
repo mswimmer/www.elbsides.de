@@ -12,7 +12,4 @@ cd www
 ./deploy.sh
 cd ..
 
-cd beta
-./deploy.sh
-cd ..
 
