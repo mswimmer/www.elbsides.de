@@ -44,6 +44,17 @@ Such an event cannot be organized without the support of the community as the ad
 				<img src="assets/images/louis-logo.png" alt="Louis" width="200px" />
 			</td>
 			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog" width="200px" />
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
+				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298;">
 				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
 			</td>
 		</tr>
@@ -58,6 +69,7 @@ We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [PRESENSE Technologies GmbH](https://www.pre-sense.de),
 [Codemetrix GmbH](https://www.codemetrix.io),
 [sum.cumo GmbH](https://www.sumcumo.com),
+[Graylog](https://www.graylog.org),
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.
