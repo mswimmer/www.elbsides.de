@@ -69,7 +69,7 @@ We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [PRESENSE Technologies GmbH](https://www.pre-sense.de),
 [Codemetrix GmbH](https://www.codemetrix.io),
 [sum.cumo GmbH](https://www.sumcumo.com),
-[Graylog](https://www.graylog.org), [Deloitte](http://www.deloitte.com/de), 
+[Graylog](https://www.graylog.org), [Superluminar](https://superluminar.io), [Deloitte](http://www.deloitte.com/de), 
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.
