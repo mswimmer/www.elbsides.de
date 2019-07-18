@@ -49,10 +49,10 @@ Such an event cannot be organized without the support of the community as the ad
 		</tr>
 		<tr>
 			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+				<img src="assets/images/Superluminar–400px.png" alt="Superluminar" width="200px" />
 			</td>
 			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+				<img src="assets/images/Deloitte–200px.png" alt="Deloitte" width="200px" />
 			</td>
 			<td style="background-color: white; border: 5px solid #00d298;">
 				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
