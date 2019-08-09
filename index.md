@@ -15,47 +15,47 @@ Such an event cannot be organized without the support of the community as the ad
 
 <table>
 		<tr>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
 				<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 				<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk	GmbH" width="200px"/>
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 				<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="200px"/>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
 				<img src="assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" alt="Holisticon" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
 				<img src="assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="PRESENSE Technologies GmbH" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 				<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
 				<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 				<img src="assets/images/louis-logo.png" alt="Louis" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
 				<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog" width="200px" />
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/Superluminar–400px.png" alt="Superluminar" width="200px" />
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/Superluminar-400px.png" alt="Superluminar" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/Deloitte–200px.png" alt="Deloitte" width="200px" />
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/Deloitte-200px.png" alt="Deloitte" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/L24_Logo_Hoch_rgb_neg_200px.png" alt="Lotto24" width="100px" />
 			</td>
 		</tr>
 </table>
@@ -69,7 +69,10 @@ We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [PRESENSE Technologies GmbH](https://www.pre-sense.de),
 [Codemetrix GmbH](https://www.codemetrix.io),
 [sum.cumo GmbH](https://www.sumcumo.com),
-[Graylog](https://www.graylog.org), [Superluminar](https://superluminar.io), [Deloitte](http://www.deloitte.com/de), 
+[Graylog](https://www.graylog.org),
+[Superluminar](https://superluminar.io),
+[Deloitte](http://www.deloitte.com/de),
+[Lotto24](https://lotto24.de), 
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.
