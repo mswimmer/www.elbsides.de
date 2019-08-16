@@ -62,6 +62,11 @@ Such an event cannot be organized without the support of the community as the ad
 			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
 				<img src="assets/images/Yubico_Logo_Big.png"	alt="Yubico AB" width="200px" />
 			</td>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
+				<img
+		src="assets/images/Allgeier-CORE-With-Claim-200px.png"
+		alt="Allgeier CORE GmbH" width="200px" />
+			</td>
 		</tr>
 </table>
 	
@@ -78,7 +83,8 @@ We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Superluminar](https://superluminar.io),
 [Deloitte](http://www.deloitte.com/de),
 [Lotto24](https://lotto24.de),
-[Yubico AB](https://www.yubico.com), 
+[Yubico AB](https://www.yubico.com),
+[Allgeier CORE GmbH](https://www.allgeier-core.com),
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu), but we need more. See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
 more details.
