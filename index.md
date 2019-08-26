@@ -73,6 +73,9 @@ Such an event cannot be organized without the support of the community as the ad
 			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
 				<img src="assets/images/googlelogo_color_466x156dp.png"	alt="Google LLC" width="150px" />
 			</td>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
+				<img src="assets/images/HERE_Logo_2016_POS_cmyk_IsoCV2.jpg"	alt="Google LLC" width="110px" />
+			</td>
 		</tr>
 </table>
 	
@@ -91,6 +94,7 @@ We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Allgeier CORE GmbH](https://www.allgeier-core.com),
 [Airbus S.A.S.](https://www.airbus.com),
 [Google LLC](https://www.google.com),
+[HERE Global B.V.](https://www.here.com),
 [BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu). See
 the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for more details.
 
