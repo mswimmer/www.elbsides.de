@@ -5,13 +5,22 @@ author_profile: false
 
 <img src="/assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
 
-Elbsides is North Germany's annual computer security conference organized by the community for the community. [This year's](https://2019.elbsides.de) conference will take place on September, 16th 2019 at the [Side Hotel](https://www.side-hamburg.de) Hamburg.
+Elbsides is North Germany's annual computer security conference
+organized by the community for the
+community. [This year's](https://2020.elbsides.de) conference will
+take place on September, 20th and 21st, 2019 at the
+[Side Hotel](https://www.side-hamburg.de) Hamburg. (If you are looking
+for information of the 2019 Elbsides conference, see the
+[2019 Elbsides conference site](https://2019.elbsides.de).)
       
-Please see the [2019 conference web site](https://2019.elbsides.de) for further details and follow us at [@elbsides](https://twitter.com/elbsides) for updates!
+Follow us at [@elbsides](https://twitter.com/elbsides) for updates!
 
 ## [Sponsors](https://2019.elbsides.de/sponsors.html) ##
 
-Such an event cannot be organized without the support of the community as the admission fee is merely a token amount. So we cannot thank our sponsors enough in making this event possible.
+Such an event cannot be organized without the support of the community
+as the admission fee is merely a token amount, so we cannot thank our
+sponsors enough in making this event possible. In 2019, we had the
+following sponsors, and we hope to see them back on board for 2020!
 
 <table>
 		<tr>
