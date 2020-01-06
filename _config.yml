@@ -69,6 +69,8 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Elbsides 2020 site"
+      url: "https://2020.elbsides.de"
     - label: "Elbsides 2019 site"
       url: "https://2019.elbsides.de"
     - label: "Impressum"
