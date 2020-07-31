@@ -9,8 +9,8 @@ Elbsides is North Germany's annual computer security conference
 organized by the community for the
 community. ~~This year's conference will
 take place on September, 20th and 21st, 2020 at the
-Side Hotel Hamburg.~~ Due to the ongoing COVID-19 pandemic, Elbsides
-2020 is cancelled. We will be welcoming you back in 2021! (If you are looking
+Side Hotel Hamburg.~~ Due to the ongoing COVID-19 pandemic, **Elbsides
+2020 is cancelled**. We will be welcoming you back in 2021! (If you are looking
 for information of the 2019 Elbsides conference, see the
 [2019 Elbsides conference site](https://2019.elbsides.de).)
       
