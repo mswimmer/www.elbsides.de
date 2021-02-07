@@ -5,51 +5,90 @@ author_profile: false
 
 <img src="/assets/images/elbsides_teaser_500x500.png" align="right" width="45%" >
 
-Elbsides is North Germany's annual computer security conference organized by the community for the community. [This year's](https://2019.elbsides.de) conference will take place on September, 16th 2019 at the [Side Hotel](https://www.side-hamburg.de) Hamburg.
+
+Elbsides is North Germany's annual computer security conference
+organized by the community for the
+community. ~~This year's conference will
+take place on September, 20th and 21st, 2020 at the
+Side Hotel Hamburg.~~ Due to the ongoing COVID-19 pandemic, **Elbsides
+2020 is cancelled**. We will be welcoming you back in 2021! (If you are looking
+for information of the 2019 Elbsides conference, see the
+[2019 Elbsides conference site](https://2019.elbsides.de).)
       
-Please see the [2019 conference web site](https://2019.elbsides.de) for further details and follow us at [@elbsides](https://twitter.com/elbsides) for updates!
+Follow us at [@elbsides](https://twitter.com/elbsides) for updates!
 
 ## [Sponsors](https://2019.elbsides.de/sponsors.html) ##
 
-Such an event cannot be organized without the support of the community as the admission fee is merely a token amount. So we cannot thank our sponsors enough in making this event possible.
+Such an event cannot be organized without the support of the community
+as the admission fee is merely a token amount, so we cannot thank our
+sponsors enough in making this event possible. In 2019, we had the
+following sponsors, and we hope to see them back on board for 2021!
 
 <table>
 		<tr>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="200px" />
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/dfn-cert.png" alt="DFN-CERT Services GmbH" width="150px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 				<img src="assets/images/Schutzwerk_Logo_RZ.png" alt="Schutzwerk	GmbH" width="200px"/>
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="200px"/>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
+				<img src="assets/images/HPA_Logo_CMYK_mit_Schutzzone_halbes_H.jpg" alt="Hamburg Port Authority" width="180px"/>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
 				<img src="assets/images/Holisticon-logo2016-white-on-sunrise-cmyk.png" alt="Holisticon" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
 				<img src="assets/images/Logo_Presense_EN_rgb_blue_www.png" alt="PRESENSE Technologies GmbH" width="200px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
 				<img src="assets/images/codemetrix-logo.jpeg" alt="Codemetrix GmbH" width="200px" />
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="200px" />
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/sum.cumo-logo.png" alt="sum.cumo GmbH" width="150px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/louis-logo.png" alt="Louis" width="200px" />
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px">
+				<img src="assets/images/louis-logo.png" alt="Louis" width="150px" />
 			</td>
-			<td style="background-color: white; border: 5px solid #00d298;">
-				<img src="assets/images/TBA sponsor.png" alt="Sponsor to be announced" width="200px" />
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/Graylog_Logo_FINAL_color.png" alt="Graylog" width="150px" />
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/Superluminar-400px.png" alt="Superluminar" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/Deloitte-200px.png" alt="Deloitte" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px;">
+				<img src="assets/images/L24_Logo_Hoch_rgb_neg_200px.png" alt="Lotto24" width="100px" />
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
+				<img src="assets/images/Yubico_Logo_Big.png"	alt="Yubico AB" width="150px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
+				<img src="assets/images/Allgeier-CORE-With-Claim-200px.png" alt="Allgeier CORE GmbH" width="200px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
+				<img src="assets/images/AIRBUS_Blue.png" alt="Airbus S.A.S." width="200px" />
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
+				<img src="assets/images/googlelogo_color_466x156dp.png"	alt="Google LLC" width="150px" />
+			</td>
+			<td style="background-color: white; border: 5px solid #00d298; text-align: center; min-width:200px; height:120px">
+				<img src="assets/images/HERE_Logo_2016_POS_cmyk_IsoCV2.jpg"	alt="Google LLC" width="110px" />
 			</td>
 		</tr>
 </table>
-	
-	
 	
 We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Schutzwerk GmbH ](https://www.schutzwerk.com),
@@ -58,9 +97,15 @@ We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [PRESENSE Technologies GmbH](https://www.pre-sense.de),
 [Codemetrix GmbH](https://www.codemetrix.io),
 [sum.cumo GmbH](https://www.sumcumo.com),
-[BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu), but we need more. See
-the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for
-more details.
-	
-As a community event, we strive to keep admission as low as possible but the fixed costs are high. We are dependent on sponsors to make this event happen.
+[Graylog](https://www.graylog.org),
+[Superluminar](https://superluminar.io),
+[Deloitte](http://www.deloitte.com/de),
+[Lotto24](https://lotto24.de),
+[Yubico AB](https://www.yubico.com),
+[Allgeier CORE GmbH](https://www.allgeier-core.com),
+[Airbus S.A.S.](https://www.airbus.com),
+[Google LLC](https://www.google.com),
+[HERE Global B.V.](https://www.here.com),
+[BSidesMunich](https://www.bsidesmunich.org) and [Detlev Louis Motorrad-Vertriebsgesellschaft mbH](https://www.louis.eu). See
+the [2019 sponsor page](https://2019.elbsides.de/sponsors.html) for more details.
 
