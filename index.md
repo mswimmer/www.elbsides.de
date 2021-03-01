@@ -90,7 +90,7 @@ following sponsors, and we hope to see them back on board for 2021!
 		</tr>
 </table>
 	
-We are currently sponsored by [DFN-CERT](https://www.dfn-cert.de),
+In 2019 we were sponsored by [DFN-CERT](https://www.dfn-cert.de),
 [Schutzwerk GmbH ](https://www.schutzwerk.com),
 [ Hamburg Port Authority ](https://www.hamburg-port-authority.de),
 [Holisticon AG](https://www.holisticon.de),
