@@ -19,7 +19,7 @@ Follow us at [@elbsides](https://twitter.com/elbsides) for updates!
 Such an event cannot be organized without the support of the community
 as the admission fee is merely a token amount, so we cannot thank our
 sponsors enough in making this event possible. In 2019, we had the
-following sponsors, and we hope to see them back on board for 2021!
+following sponsors, and we hope to see them back on board for 2023 and the next main event in 2024!
 
 <table>
 		<tr>
